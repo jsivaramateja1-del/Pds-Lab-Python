@@ -14,5 +14,4 @@ def arm(num):
 
 for i in range(100,1000):
     if arm(i) == 1:
-        if i < 999:
             print(i,end=' ')
